@@ -1,0 +1,14 @@
+src/Python_NER_Tagger.egg-info/
+test/.cache/
+
+*.pyc
+.idea/
+models
+data/RAW
+data/ACE/dtd
+data/ACE/data
+data/ACE/docs
+index.html
+my_ace_*.test
+data/ontonotes
+data/ontonotes_old
